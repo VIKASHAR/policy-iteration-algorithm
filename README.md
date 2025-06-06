@@ -31,8 +31,8 @@ Policy Iteration is a classic method for solving MDPs and consists of two main s
 
 ### Policy Improvement Function:
 ```
-DEVELOPED BY : NIRAUNJANA GAYATHRI G R
-REGISTER NO. : 212222230096
+DEVELOPED BY : VIKASH A R
+REGISTER NO. : 212222040179
 ```
 ```
 def policy_improvement(V, P, gamma=1.0):
